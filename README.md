@@ -6,15 +6,15 @@ It is hard to come with a secure password for the inevitable account requirement
 
 ## Screenshots
 ![Password Generator Homepage](./Images/Password-Generator-Homepage.png)<br/>
-Password Generator Homepage
+Password Generator Homepage<br/>
 ![Password Character Length Prompt](./Images/PWD-Length-Criteria.png)<br/>
-First prompt for Password length
+First prompt for Password length<br/>
 ![Special Charater Criteria](./Images/Special-Characters.png)<br/>
-Confirming if you want special characters in your password
+Confirming if you want special characters in your password<br/>
 ![Number Charater Criteria](./Images/Number-Character.png)<br/>
-Confirming if you want numbers in your password
+Confirming if you want numbers in your password<br/>
 ![Capital Charater Criteria](./Images/Capital-Letters.png)<br/>
-Confirming if you want capital letters in your password
+Confirming if you want capital letters in your password<br/>
 
 ## Technologies
 * HTML - version 5.0
