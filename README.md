@@ -19,7 +19,7 @@ Confirming if you want capital letters in your password
 ## Technologies
 * HTML - version 5.0
 * CSS - version 4.0
-* JAvascript - version 9.0
+* Javascript - version 9.0
 
 ## How to use
 Go to [Deployed Application](https://ProgHarrison234.github.io/javascript-password-generator)
